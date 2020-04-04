@@ -98,12 +98,7 @@ export default {
   },
   fontFamily: {
     options: [
-      "Arial",
-      "Georgia",
-      "Impact",
-      "Tahoma",
-      "Times New Roman",
-      "Verdana"
+      "Futura-pt"
     ],
     className: undefined,
     component: undefined,
